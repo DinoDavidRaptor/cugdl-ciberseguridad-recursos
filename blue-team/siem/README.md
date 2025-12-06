@@ -7,6 +7,7 @@ Recursos sobre gestión de eventos e información de seguridad.
 ## Temas
 
 ### Conceptos Básicos
+
 - ¿Qué es un SIEM?
 - Arquitectura de SIEM
 - Logs y eventos de seguridad
@@ -14,6 +15,7 @@ Recursos sobre gestión de eventos e información de seguridad.
 - Casos de uso de seguridad
 
 ### Herramientas SIEM
+
 - Splunk
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - Wazuh
@@ -22,6 +24,7 @@ Recursos sobre gestión de eventos e información de seguridad.
 - Graylog
 
 ### Implementación
+
 - Recolección de logs
 - Normalización de logs
 - Parsing y enriquecimiento
@@ -30,6 +33,7 @@ Recursos sobre gestión de eventos e información de seguridad.
 - Dashboards y visualización
 
 ### Análisis de Logs
+
 - Logs de sistemas operativos
 - Logs de aplicaciones web
 - Logs de firewalls
