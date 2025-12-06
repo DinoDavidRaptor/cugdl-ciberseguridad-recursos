@@ -1,0 +1,121 @@
+# Credenciales y secretos
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+.env
+.env.local
+.env.*
+.env.*.local
+secrets.txt
+credentials.json
+credentials.yaml
+*.credentials
+
+# Firebase exports
+firebase-export.json
+firebase-complete-export.json
+
+# Archivos de configuración con datos sensibles
+config.local.*
+*.local.conf
+.secrets/
+
+# Datos privados
+datos-reales/
+private/
+confidential/
+personal/
+
+# Bases de datos reales
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs con información potencialmente sensible
+*.log
+logs/
+
+# Archivos temporales y de respaldo
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDEs y editores
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de IA y evidencias de agentes
+copilot-*.md
+claude-*.md
+agent-*.md
+AGENTS.md
+CLAUDE.md
+SESSION_SUMMARY.md
+
+# Scripts de testing
+test-*.js
+test-*.ts
+*.test.local
+
+# Archivos debug
+debug_files/
+*.debug
+
+# Compilados de C/C++ (del workspace actual)
+*.exe
+*.o
+*.out
+*.obj
+*.elf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos grandes que no deberían estar en Git
+*.iso
+*.vmdk
+*.vdi
+*.ova
+
+# Capturas de pantalla con información sensible
+screenshots-privadas/
+capturas-reales/
+
+# Herramientas de pentesting - outputs
+nmap-outputs/
+*.pcap
+*.pcapng
+loot/
+sessions/
+
+# Documentos que podrían tener información sensible
+*-privado.*
+*-real.*
+*-confidencial.*
+CUGDL-Publico.code-workspace
+.vscode/settings.json
+scripts/cugdl-workspace.ps1
+scripts/
+
