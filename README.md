@@ -6,7 +6,7 @@
 [![CUGDL](https://img.shields.io/badge/comunidad-CUGDL-red.svg)](https://www.udg.mx)
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)]()
 
-Repositorio colaborativo de recursos educativos para estudiantes de ciberseguridad de la **Comunidad Universitaria de Guadalajara Digital Labs (CUGDL)**, Universidad de Guadalajara.
+Repositorio colaborativo de recursos educativos para estudiantes de ciberseguridad de la **Comunidad Universitaria de Guadalajara (CUGDL)**, Universidad de Guadalajara.
 
 ---
 
